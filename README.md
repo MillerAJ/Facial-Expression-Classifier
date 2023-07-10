@@ -17,4 +17,4 @@ Classification report for cnn_model_3c2:
 
 
 
-Search of "observation" and cycle through results for a quicker, higher-level view of my comments as the notebook progresses
+Search for "observation" and cycle through results for a quicker, higher-level view of my comments as the notebook progresses.
