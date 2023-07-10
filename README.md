@@ -6,7 +6,7 @@ Example images:
 ![image](https://github.com/MillerAJ/Facial-Expression-Classifier/assets/9644656/8ae0f5e7-c05d-472b-9f16-c5e7bc33de75)
 
 
-32 convolutional layers feeding into a 25-layer artificial neural network. The most accuracte model, cnn_model_3c2, had 1,747,756 trainable variables. With the assitance of data augmentation, it achieved an accuracy of 83% on the test data. 
+The model which achieved the highest accuracy, cnn_model_3c2, consisted of 32 convolutional layers feeding into a 25-layer artificial neural network. The model had 1,747,756 trainable variables, and With the assitance of data augmentation, it was aable to achieve an accuracy of .83 on the test data. 
 
 Classification report for cnn_model_3c2:
 
