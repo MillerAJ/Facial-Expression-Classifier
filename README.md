@@ -1,5 +1,5 @@
 # Facial-Expression-Classifier
-Written in python, this project utilizes scikit-learn and tensorflow to build, train and test convolutional neural networks to recognize human emotions.
+Written in python, this project utilizes scikit-learn and tensorflow to build, train and test convolutional neural networks to recognize human emotions in images of faces.
 
 Example images:
 
